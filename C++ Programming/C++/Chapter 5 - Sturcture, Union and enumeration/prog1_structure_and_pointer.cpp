@@ -1,3 +1,7 @@
+// reference : https://www.geeksforgeeks.org/cpp/structures-in-cpp/
+// https://www.geeksforgeeks.org/cpp/cpp-unions/
+// https://www.geeksforgeeks.org/cpp/enumeration-in-cpp/
+
 #include<iostream>
 using namespace std;
 
